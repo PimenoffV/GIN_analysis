@@ -154,7 +154,7 @@ library(scoring)
 library(bimba)
 
 
-dir.in<-"/Users/vilpim/Desktop/mDATA/mWORK/o.Groups/Ramon.Cleries/CodeData/Simulation/"
+dir.in<-"/PATH/"
 file.in<-"hpvsimTP.txt"
 fit.in.p<-paste(dir.in,file.in,sep="")
 hpv.sim<-as.data.frame(read.table(fit.in.p,header=T))
