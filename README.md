@@ -12,4 +12,4 @@ hpvsimTP.txt -> simulated synthetic target population (TP) of 10,000 individuals
 
 Sim 500 Samples.RData -> Files generated from the GIN analysis comparison with seven commonly used oversampling algorithms listed.
 
-Simulation Study Paper_v1 -> R code for GIN analysis comparison with seven commonly used oversampling algorithms listed.
+Simulation Study Paper_v1.R -> R code for GIN analysis comparison with seven commonly used oversampling algorithms listed.
