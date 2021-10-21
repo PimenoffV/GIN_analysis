@@ -1,4 +1,4 @@
-# R code for testing the GIN analysis sensitivity with the knonw oversampling methods.
+# R code for GIN analysis modelling and comparisons with the knonw oversampling methods.
 
 rm(list = ls())
 #install.packages(c("lemon", "patchwork", "scoring"))
