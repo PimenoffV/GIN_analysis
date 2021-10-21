@@ -1,6 +1,6 @@
 
 # GIN_validation 
-graphical independence network (GIN) analysis documentation (Pimenoff and Cleries 2021).
+Graphical independence network (GIN) analysis documentation (Pimenoff V. and Cleries R, 2021).
 
 A GIN model was fitted to an observed data (OD) (N=126) to generate a synthetic target population (TP) of 10,000 individuals (hpvsimTP.txt), and resampling from this TP we created the simulated large database. The TP included 17 HPV types, the variables. For validation purposes, each HPV type of the TP with those obtained from generating a synthetic dataset obtained by applying SynSamGIN to a 500 subset of data sampled from the TP in the three sample size scenarios (SCs). 
 
@@ -10,4 +10,4 @@ The performance of the GIN was also compared with seven commonly used oversampli
 
 hpvsimTP.txt -> simulated synthetic target population (TP) of 10,000 individuals.
 
-Sim 500 Samples.RData -> GIN results comparison with seven commonly used oversampling algorithms listed above.
+Sim 500 Samples.RData -> Files generated from the GIN analysis comparison with seven commonly used oversampling algorithms listed above.
